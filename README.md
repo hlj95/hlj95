@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on AI, Machine Learning Projects, or Automation Projects to implement in the Oil & Gas Sector.
 - 🤔 I’m looking for help on deciding what book to read next. [only non-fiction]
 - 📫 How to reach me: HLJ@DEVTEK.space
-- ⚡ Fun fact: The World Is Yours
 
