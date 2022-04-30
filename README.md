@@ -11,7 +11,6 @@ I'm a Full-Stack Blockchain Developer based in Houston, Texas
 - 🌍 I support and donate regularly with: **Gulf Coast Regional Blood Center -Katy Neighborhood Donor Center**
 - 🌱 Learning more about and studying: **Open Source, React, Blockchain, Web3**
 - 📫 Reach me asap: <a href="https://twitter.com/HLJHTX/">Twitter</a> or h.lopezjr95@gmail.com
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/hlj95/">LinkedIn</a>
