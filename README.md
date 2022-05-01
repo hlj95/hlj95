@@ -1,6 +1,6 @@
 
 # Hi, I'm Eri! 
-**[Heriberto Lopez Jr.**
+**[Heriberto Lopez Jr.**]
 
 I'm a Full-Stack Blockchain Developer based in Houston, Texas
 
